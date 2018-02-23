@@ -1,0 +1,16 @@
+{
+  "name": "parsehubchallenge",
+  "version": "1.0.0",
+  "description": "My submission to Parsehub for their hiring process challenge.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Brendan D",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
